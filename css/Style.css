@@ -1,0 +1,132 @@
+body{
+    background: #f4f4f4 !important;
+}
+.header-menu{
+    background-color:#00483d  ;
+    height: 2rem;
+    width: 100%;
+}
+.header-a{
+    
+margin-left: 50%;
+
+}
+.header-menu ul li{
+    list-style-type: none;
+    display: inline-block;
+    text-decoration: none !important;
+    margin-left: 1rem;
+    font-size: 13px;
+}
+.header-menu ul li a{
+
+    color: white;
+    text-decoration: none;
+    margin-top: 10rem;
+}
+ .logo{
+    width: 18rem;
+    height: 3rem;
+    margin-left: 3rem;
+    margin-right: 2rem;
+} 
+.container-navbar{
+    background: #00483d !important;
+    width: 90%;
+    height: 5rem !important;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    text-align: center !important;
+    margin-left: 5%;
+    margin-top: 1rem;
+    
+    
+}
+.nav-link{
+    font-size: 12px;
+    margin: 0.6rem;
+   font-family: initial;
+   color: aliceblue !important;
+   text-align: center;
+
+}
+
+.logo-card img{
+    width: 5rem;
+    margin-left: 10rem;
+}
+.banner{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.banner img{
+    width: 92%;
+    height: 15rem;
+    margin-left: 4%;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+}
+.search input{
+    width: 35rem;
+    border: 0px solid black;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+}
+.search button{
+    background-color: #00483d;
+    border: 0px;
+    color:#f4f4f4;
+    margin-right: 2rem;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    height: 1.8rem;
+}
+.donhang{
+    height: 2rem;
+    background: #00483d;
+    border: 0px solid #00483d;
+    border-radius: 0.3rem 0.3rem 0.3rem 0.3rem;
+    text-decoration: none !important;
+    color: #f4f4f4 !important;
+}
+.shoping{
+    margin-left: 2rem;
+}
+.quangcao{
+    margin-top: 1rem;
+    margin-left: 5%;
+    background: #f4f4f4 ;
+    width: 90%;
+    height: 5rem;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    
+}
+.quangcao-mh{
+    margin-left: 2.5rem;
+}
+.quangcao-mh ul li {
+    margin-top: 1rem;
+    text-align: center;
+    list-style-type: none;
+    display: inline-block;
+    text-decoration: none !important;
+}
+.quangcao-mh ul li img{
+    width:8rem ;
+    height: 2.5rem;
+    border: 1px solid #00483d;
+    border-radius:0.5rem 0.5rem 0.5rem 0.5rem ;
+    
+}
+.quangcao-mh ul li :hover{
+    border: 1px solid red;
+}
+.dienthoai b{
+    
+    font-size: 15px;
+   
+}
+.dienthoai img{
+    margin-left: 4rem;
+}
+.dienthoai a{
+    text-decoration: none !important;
+    color: #079d86;
+}
